@@ -29,7 +29,7 @@ public class AppFunctions {
             //
         }
         public void init() {
-            
+            //From Ankur Industries, LICENSED UNDER THE MIT LISENSE
         }
         //As we all know that providing good and standarized urls is a good practice. Thus expecting good and standarized URL(s)
         //from you.
@@ -100,7 +100,7 @@ public class AppFunctions {
             void SetupNetwork(String DNSAddress) {
                 /*This function sets up the School Resource Sharing Network
                 This method is needed to be called before any SharingOp*/
-                DNSAddress
+                
             }
         }
     }
